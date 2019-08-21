@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개
 
-멋사에 지원할 때 작성했던 IT 서비스 소개와 자기 소개를 html, css, bootstrap을 활용해 만든 static webpage이다.
+멋사에 지원할 때 작성했던 IT 서비스 소개와 자기 소개를 html, css, bootstrap을 활용해 만든 static webpage.
 
 ## 스크린샷
 
